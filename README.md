@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-A golang client for iyzipay API. (https://iyzipay.com)
+A golang client for iyzico/iyzipay API. (https://iyzico.com)
 
 ## Code Example
 
