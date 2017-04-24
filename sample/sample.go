@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	iyzigo ".."
+	"github.com/rifatx/iyzigo"
 )
 
 func main() {
