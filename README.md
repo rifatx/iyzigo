@@ -14,4 +14,4 @@ Just `go get -u github.com/rifatx/iyzigo`.
 
 ## Tests
 
-Test are provided in `action_test.go` and they only test for successful communication with the endpoints. The content of the responses are **not** automatically tested.
+Tests are provided in `action_test.go` and they only test for successful communication with the endpoints. The content of the responses are **not** automatically tested.
